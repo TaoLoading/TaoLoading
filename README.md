@@ -1,4 +1,4 @@
-<img align="right" border="1px solid red" src="https://github-readme-stats.vercel.app/api?username=TaoLoading&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TaoLoading&show_icons=true">
 
 ### 👋Hi! Welcome to my GitHub
 - 👀 一名正在进阶的前端菜鸟
