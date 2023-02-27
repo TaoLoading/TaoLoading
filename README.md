@@ -4,5 +4,6 @@
 - 👀 一名正在进阶的前端菜鸟
 - 🌱 热爱前端开发
 - 😃 希望认识更多有趣的小伙伴
-- 📫 VX：taoloading587
+- 📫 email：taoloading@foxmail.com
+- 📱 VX：taoloading587
 - 👋 再次欢迎
