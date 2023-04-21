@@ -4,5 +4,5 @@
 - 👀 A Front-End rookie who is advancing
 - 🌱 Love Front-End Development
 - 😃 Hope to meet more interesting friends
-- 📫 Email：taoloading@foxmail.com
+- 📫 Welcome to communicate
 - 👋 Welcome again
